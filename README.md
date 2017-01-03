@@ -1,2 +1,2 @@
 # z12
-Zadanie laboratoryjne z11
+Zadanie laboratoryjne z12
