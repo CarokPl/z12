@@ -3,7 +3,7 @@
 define('DB_NAME', 'm1359_z12');
 define('DB_USER', 'm1359_z12');
 define('DB_HOST', 'mysql11.mydevil.net');
-define('DB_PASS', 'bazyZadanie12');
+define('DB_PASS', 'aaa');
 
 define('SITE_TITLE', 'Dysk');
 define('MAX_FILE_SIZE', 1000);
